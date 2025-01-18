@@ -1,0 +1,16 @@
+numpy
+
+tensorflow
+tensorflow-gpu
+tensorflow-hub
+
+
+
+opencv-python
+pillow
+
+matplotlib
+scikit-learn
+imbalanced-learn
+pyyaml
+tqdm
